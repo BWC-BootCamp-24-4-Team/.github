@@ -1,4 +1,4 @@
-# 🚀 Welcome to Our Organization
+# Welcome to Our Organization
 
 A collaborative space where developers learn, build, and grow together.
 
@@ -16,7 +16,7 @@ Here, we:
 
 ---
 
-## 🧠 What You'll Find Here
+## What You'll Find Here
 
 ### 📁 Project Repositories
 
