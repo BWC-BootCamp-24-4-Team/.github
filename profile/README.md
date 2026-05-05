@@ -53,9 +53,9 @@ These are real-world skills that matter.
 We use Discussions to stay connected:
 
 - 🚀 [Journey & Progress](https://github.com/orgs/BWC-BootCamp-24-4-Team/discussions/categories/journey-progress) → share your learning
-- 💡 Ideas → suggest improvements
-- 🧑‍💻 Showcases → share your projects
-- 🆘 Help → ask questions
+- 💡 [Ideas](https://github.com/orgs/BWC-BootCamp-24-4-Team/discussions/categories/ideas) → suggest improvements
+- 🧑‍💻 [Achievements](https://github.com/orgs/BWC-BootCamp-24-4-Team/discussions/categories/achievements) → share your projects
+- 🆘 [Collaboration & Help](https://github.com/orgs/BWC-BootCamp-24-4-Team/discussions/categories/collaboration-help) → ask questions
 - 🤝 Collaboration → find teammates
 - 📚 Resources → share useful content
 
