@@ -4,7 +4,7 @@ A collaborative space where developers learn, build, and grow together.
 
 ---
 
-## 🌱 About Us
+## About Us
 
 This organization was created to support a group of developers learning and building projects together.
 
