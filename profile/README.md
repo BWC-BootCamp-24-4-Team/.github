@@ -52,7 +52,7 @@ These are real-world skills that matter.
 
 We use Discussions to stay connected:
 
-- 🚀 Journey & Progress → share your learning
+- 🚀 [Journey & Progress](https://github.com/orgs/BWC-BootCamp-24-4-Team/discussions/categories/journey-progress) → share your learning
 - 💡 Ideas → suggest improvements
 - 🧑‍💻 Showcases → share your projects
 - 🆘 Help → ask questions
