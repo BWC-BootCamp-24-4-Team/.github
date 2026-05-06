@@ -1,4 +1,4 @@
-# Welcome to Our Organization
+# Welcome to <Dev Assembly/>
 
 A collaborative space where developers learn, build, and grow together.
 
